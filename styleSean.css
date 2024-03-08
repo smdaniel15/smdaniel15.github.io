@@ -1,5 +1,5 @@
 body {
-  background-color: white;
+  background-color: lightsteelblue;
 }
 
 h1 {
@@ -16,12 +16,27 @@ h2 {
   font-size: 50px;
 }
 
+h3 {
+  color: black;
+  text-align: center;
+  font-family: verdana;
+  font-size: 25px;
+}
+
 p {
   text-align: left;
   font-family: verdana;
   font-size: 25px;
   margin-left: 75px;
   margin-right: 75px;
+}
+
+p.p2 {
+text-align: center;
+font-family: verdana;
+font-size: 25px;
+margin-left: 75px;
+margin-right: 75px;
 }
 
 div {
